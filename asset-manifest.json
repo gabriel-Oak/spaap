@@ -1,7 +1,7 @@
 {
   "main.css": "/spaap/static/css/main.fa8bc454.chunk.css",
-  "main.js": "/spaap/static/js/main.781695ae.chunk.js",
-  "main.js.map": "/spaap/static/js/main.781695ae.chunk.js.map",
+  "main.js": "/spaap/static/js/main.05adbb0e.chunk.js",
+  "main.js.map": "/spaap/static/js/main.05adbb0e.chunk.js.map",
   "static/css/1.b930b71f.chunk.css": "/spaap/static/css/1.b930b71f.chunk.css",
   "static/js/1.a03cc6e3.chunk.js": "/spaap/static/js/1.a03cc6e3.chunk.js",
   "static/js/1.a03cc6e3.chunk.js.map": "/spaap/static/js/1.a03cc6e3.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.b930b71f.chunk.css.map": "/spaap/static/css/1.b930b71f.chunk.css.map",
   "static/css/main.fa8bc454.chunk.css.map": "/spaap/static/css/main.fa8bc454.chunk.css.map",
   "index.html": "/spaap/index.html",
-  "precache-manifest.2051e1e556e036c49fecf308fba064bd.js": "/spaap/precache-manifest.2051e1e556e036c49fecf308fba064bd.js",
+  "precache-manifest.987c97bfe7e18215517cb545289bf1e8.js": "/spaap/precache-manifest.987c97bfe7e18215517cb545289bf1e8.js",
   "service-worker.js": "/spaap/service-worker.js"
 }
