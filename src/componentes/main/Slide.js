@@ -7,24 +7,24 @@ class Slide extends Component {
     render() {
         const images = [
             {
-              original: '/img/original/a.jpg',
-              thumbnail: '/img/thumb/a.jpg',
+              original: process.env.PUBLIC_URL +'/img/original/a.jpg',
+              thumbnail: process.env.PUBLIC_URL +'/img/thumb/a.jpg'
             },
             {
-              original: 'img/original/b.jpg',
-              thumbnail: 'img/thumb/b.jpg'
+              original: process.env.PUBLIC_URL +'/img/original/b.jpg',
+              thumbnail: process.env.PUBLIC_URL +'/img/thumb/b.jpg'
             },
             {
-              original: 'img/original/c.jpg',
-              thumbnail: 'img/thumb/c.jpg'
+              original: process.env.PUBLIC_URL +'/img/original/c.jpg',
+              thumbnail: process.env.PUBLIC_URL +'/img/thumb/c.jpg'
             },
             {
-                original: 'img/original/d.jpg',
-                thumbnail: 'img/thumb/d.jpg'
+                original: process.env.PUBLIC_URL +'/img/original/d.jpg',
+                thumbnail: process.env.PUBLIC_URL +'/img/thumb/d.jpg'
               },
               {
-                original: 'img/original/e.jpg',
-                thumbnail: 'img/thumb/e.jpg'
+                original: process.env.PUBLIC_URL +'/img/original/e.jpg',
+                thumbnail: process.env.PUBLIC_URL +'/img/thumb/e.jpg'
               }
           ]
        

@@ -23,7 +23,7 @@ class ButtonMob extends Component {
     render() {
         return (
             <div className="buttonmob" onClick={this.clickMe.bind(this)}>
-            	<img src="/img/btn.png" alt="Botão Mobile" />
+            	<img src={process.env.PUBLIC_URL + "/img/btn.png"} alt="Botão Mobile" />
             </div>
         );
     }

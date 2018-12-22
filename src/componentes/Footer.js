@@ -6,13 +6,13 @@ class Footer extends Component {
         return (
             <div className="footer">
             	<div>
-            		<img src="/img/logo.png" alt="Logomarca" />
+            		<img src={process.env.PUBLIC_URL +"/img/logo.png"} alt="Logomarca" />
             	</div>
 
 
 
             	<div>
-            		Enderesso<br/>
+            		Endereço<br/>
             		Telefone<br/>
             		Email
             	</div>
