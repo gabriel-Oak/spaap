@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/spaap/static/js/runtime~main.813597f5.js"
   },
   {
-    "revision": "3eaa2f522d03107049b6",
-    "url": "/spaap/static/js/main.3eaa2f52.chunk.js"
+    "revision": "071e9490767a7e65100e",
+    "url": "/spaap/static/js/main.071e9490.chunk.js"
   },
   {
     "revision": "a03cc6e38d20d9876f11",
     "url": "/spaap/static/js/1.a03cc6e3.chunk.js"
   },
   {
-    "revision": "3eaa2f522d03107049b6",
+    "revision": "071e9490767a7e65100e",
     "url": "/spaap/static/css/main.fa8bc454.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/spaap/static/css/1.b930b71f.chunk.css"
   },
   {
-    "revision": "ff29dbac7f27d0d69c5fcd302257a3a4",
+    "revision": "563c67d9f63734caec154d0483cebd32",
     "url": "/spaap/index.html"
   }
 ];
